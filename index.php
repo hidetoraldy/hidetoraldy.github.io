@@ -68,9 +68,54 @@
       </div>
     </section>
 
+  <!-- Social Media -->
+  <section class="social bg-light" id="social">
+    <div class="container">
+      <div class="row pt-4 mb-4">
+        <div class="col text-center">
+          <h2>Social Media</h2>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-5">
+          <div class="row">
+            <div class="col-md-4">
+              <img src="img/profile1.png" width="125" class="rounded-circle img-thumbnail">
+            </div>
+            <div class="col-md-8">
+              <h5>Aldy Ramadhan</h5>
+              <p>300 Followers</p>
+            </div>
+          </div>
+          <div class="row mt-3 pb-3">
+            <div class="col">
+
+            </div>
+          </div>
+        </div>
+        <div class="col-md-5">
+          <div class="row">
+            <div class="col-md-4">
+              <img src="img/profile1.png" width="125" class="rounded-circle img-thumbnail">
+            </div>
+            <div class="col-md-8">
+              <h5>Aldy Ramadhan</h5>
+              <p>300 Followers</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
     <!-- Portfolio -->
-    <section class="portfolio bg-light" id="portfolio">
+    <section class="portfolio" id="portfolio">
       <div class="container">
         <div class="row pt-4 mb-4">
           <div class="col text-center">
@@ -139,7 +184,7 @@
 
 
     <!-- Contact -->
-    <section class="contact" id="contact">
+    <section class="contact bg-light" id="contact">
       <div class="container">
         <div class="row pt-4 mb-4">
           <div class="col text-center">
